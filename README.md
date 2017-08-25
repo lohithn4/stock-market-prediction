@@ -6,4 +6,4 @@ https://github.com/lohithn4/stock-market-prediction/blob/master/Technical_indica
 
 Research Paper:
 
-![Comparative Study of machine learning Technologies](http://academicscience.co.in/admin/resources/project/paper/f201706121497271783.pdf)
+http://academicscience.co.in/admin/resources/project/paper/f201706121497271783.pdf
