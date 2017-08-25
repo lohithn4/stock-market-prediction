@@ -3,3 +3,8 @@ A detailed study of four machine learning Techniques(Random-Forest, Linear Regre
 
 click on the respective notebooks pages to view the project outcomes
 https://github.com/lohithn4/stock-market-prediction/blob/master/Technical_indicators_predic.ipynb
+
+Research Paper:
+Comparative Study of machine learning Technologies
+
+![Comparative Study of machine learning Technologies](http://academicscience.co.in/admin/resources/project/paper/f201706121497271783.pdf)
