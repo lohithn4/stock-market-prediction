@@ -1,0 +1,11 @@
+pandas
+numpy
+sklearn
+matplotlib
+git+ssh://git@github.com/pybrain/pybrain.git@dcdf32ba1805490cefbc0bdeb227260d304fdb42
+nose
+cython
+ipykernel
+pymongo
+dnspython
+mplfinance
